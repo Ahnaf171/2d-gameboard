@@ -7,9 +7,6 @@ This sequencial approach helped me build my program in a more sequential manner 
 The first issue that I faced was trying to get one of the boards to display. I was able to print out the board but couldn’t save it to have a player positioned on it.
 I was a bit confused with the concept of when to use pass by reference and pass by values. I then struggled with a few input validations where the whole line needed to be read in several pieces.
 I was also not able to stop my program from displaying an unused map when the user wanted to set the starting position of the arrow.
-
-The startup code could have been a bit more lenient in letting us chose how we would like the carry on developing our programs.
-I think that the startup code was good for helping beginners fill in the functions to make the program work however they were too restrictive and given it was mandatory to utilise all given functions, it was a bit hectic.
 */
 
 #include "game.h"
